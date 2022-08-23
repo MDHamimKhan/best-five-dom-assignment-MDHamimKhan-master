@@ -1,0 +1,24 @@
+
+.font-berkshire{
+  font-family: 'Berkshire Swash', cursive;
+}
+.font-manrope{
+  font-family: 'Manrope', sans-serif;
+}
+.head-container{
+  max-width: 1440px;
+  min-height: 476px;
+}
+.head-text, .headTextImg{
+  width: 670px;
+}
+main.container{
+  width: 1128px;
+}
+section.playerCart-height{
+  height: 360px;
+}
+button:disabled{
+  pointer-events: none;
+  background-color: #A2A9AF;
+}
